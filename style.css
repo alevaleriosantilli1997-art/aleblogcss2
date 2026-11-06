@@ -1,0 +1,61 @@
+*{
+   font-family: "Montserrat", sans-serif;
+}  
+
+ 
+h4{
+ font-family: "Oswald", sans-serif;
+}
+ 
+nav{
+    background-color: rgba(56, 51, 51, 0.756);
+}
+
+
+.logo{
+    width: 100px;
+    height: 100px;
+}
+
+
+.link{
+    text-decoration: none;
+    color: rgb(68, 22, 41);
+}
+
+
+.listlink{
+    list-style-type: none ;
+}
+
+
+header{
+    background-image: url(./media2/55.webp);
+    height: 60vh;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+
+}
+
+h1{color: rgb(0, 0, 0);
+font-size: 70px;
+}
+
+.linkhome{
+    color: rgb(0, 255, 247);
+    text-decoration: none;
+}
+
+
+.btnarticle{
+    background-color: rgb(68, 22, 41); ;
+    color: rgb(196, 209, 221);
+}
+
+
+.btnarticle:hover{
+    background-color: rgb(166, 123, 44);
+    color: black;
+
+}
